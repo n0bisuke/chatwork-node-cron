@@ -1,0 +1,2 @@
+# simpleChat
+### a Sails application
